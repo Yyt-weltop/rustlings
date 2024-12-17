@@ -19,6 +19,7 @@ impl Licensed for OtherSoftware {} // Don't edit this line.
 
 fn main() {
     // You can optionally experiment here.
+    
 }
 
 #[cfg(test)]
